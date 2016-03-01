@@ -23,8 +23,6 @@ class IndexController extends Controller {
     public function responseMsg(){
     	$postArr = $GLOBALS['HTTP_RAW_POST_DATA'];
     	$postObj = simplexml_load_string($postArr);
-    	if(strtolower($postObj->MsgType) == 'event'){
-    		if(strtolower($postObj->Event) =='subscribe'){
     			$toUser = $postObj->FromUserName;
     			$fromUser = $postObj->ToUserName;
     			$time = time();
@@ -39,7 +37,5 @@ class IndexController extends Controller {
  							</xml>";
  				$info = sprintf($template,$toUser,$fromUser,$time,$MsgType,$Content);
  				echo $info;			
-    		}
-    	}
     }
 }
