@@ -1,0 +1,383 @@
+[ 2016-02-29T22:21:09+08:00 ] 124.205.212.174 /weixin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000031s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004631s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000063s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2016-02-29T22:28:03+08:00 ] 124.205.212.174 /weixin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000099s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000092s ]
+
+[ 2016-02-29T22:30:06+08:00 ] 124.205.212.174 /weixin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000036s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004404s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000065s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000021s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000083s ]
+
+[ 2016-02-29T22:30:46+08:00 ] 124.205.212.174 /weixin/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2016-02-29T22:31:05+08:00 ] 124.205.212.174 /weixin/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000031s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000024s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.000234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000293s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000013s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000058s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000025s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000081s ]
+
+[ 2016-02-29T22:32:32+08:00 ] 101.226.103.73 /weixin/index.php/Home/Index?signature=4c16763d47bfd76eb61da6de3e403acf06974976&echostr=7846396860804528125&timestamp=1456756349&nonce=1187811506
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+
+[ 2016-02-29T22:34:09+08:00 ] 140.207.54.80 /weixin/index.php/Home/Index?signature=933dd06da7ed386d90e9ef5c166c1d318a4bda19&echostr=2248008798507521789&timestamp=1456756449&nonce=502281682
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000099s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-02-29T22:34:14+08:00 ] 58.247.206.143 /weixin/index.php/Home/Index?signature=ef59c142fbd7fbce5b2ce2d264f2fc8bd3d9a56b&echostr=5430225001885532159&timestamp=1456756454&nonce=335836911
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-02-29T22:34:17+08:00 ] 140.207.54.79 /weixin/index.php/Home/Index?signature=7931ff0473e03f90b942c936e8b4f56b1889665c&echostr=739454973786816235&timestamp=1456756457&nonce=528716756
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-02-29T22:34:20+08:00 ] 140.207.54.80 /weixin/index.php/Home/Index?signature=968fc0ab2d9af63aae7fbeb470e69753de1fc2e4&echostr=4206137564741402607&timestamp=1456756460&nonce=1952550397
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+
+[ 2016-02-29T22:54:21+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=69075ecafe93bd5f31e6f50ece3d496d4f74dadc&timestamp=1456757661&nonce=1221313801&encrypt_type=aes&msg_signature=79d92075cee51ba4ffff78e2516ba4d7e182fd26
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+
+[ 2016-02-29T22:56:59+08:00 ] 124.205.212.174 /weixin/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000101s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 24 行.
+NOTIC: [8] Trying to get property of non-object /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000081s ]
+
+[ 2016-02-29T22:58:00+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=cf7a596f64d4a4b778b3f99729943131a8752480&timestamp=1456757880&nonce=1668326855&encrypt_type=aes&msg_signature=2f58d5b08c34a61678c741b400265d841571f197
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2016-02-29T22:58:09+08:00 ] 140.207.54.79 /weixin/index.php/Home/Index?signature=8751d7c4180a626fd9245cf02ca732494468ea13&timestamp=1456757889&nonce=570305759&encrypt_type=aes&msg_signature=31741fa902c112b2cc653090271b0fc86761e2f9
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-02-29T23:00:32+08:00 ] 124.205.212.174 /weixin/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000101s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 24 行.
+NOTIC: [8] Trying to get property of non-object /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000100s ]
+
+[ 2016-02-29T23:00:44+08:00 ] 140.207.54.79 /weixin/index.php/Home/Index?signature=e0f284ac81a88ca503ba6dfe654621a557c8b488&timestamp=1456758044&nonce=1193365588&encrypt_type=aes&msg_signature=ca670084d43eb595d04fae5193cbd9886d2c039d
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2016-02-29T23:01:24+08:00 ] 140.207.54.78 /weixin/index.php/Home/Index?signature=f82558a729fec6e7477d0a47a4cb7fbff622d32f&timestamp=1456758084&nonce=2033374659&encrypt_type=aes&msg_signature=c1f59f951d84547ed90af09b245282a1ca2addb1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2016-02-29T23:02:45+08:00 ] 124.205.212.174 /weixin/index.php/Home/Index
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 24 行.
+NOTIC: [8] Trying to get property of non-object /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2016-02-29T23:14:03+08:00 ] 117.136.0.167 /weixin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 24 行.
+NOTIC: [8] Trying to get property of non-object /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2016-02-29T23:14:33+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=cb6c3b6fde58a15a19ef2e24e942bd15cd0f2996&timestamp=1456758873&nonce=775436974&encrypt_type=aes&msg_signature=1b472a6cbbf15738127e876f02c135c97b8fee87
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000112s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-02-29T23:14:55+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=c0c4e39d8014fe73f28ead291ce549f83e5641e5&timestamp=1456758895&nonce=535115523&encrypt_type=aes&msg_signature=469eb1e806df6780c378c9fee131a8d0e9af7c10
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-02-29T23:39:16+08:00 ] 117.136.0.167 /weixin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 24 行.
+NOTIC: [8] Trying to get property of non-object /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2016-02-29T23:39:24+08:00 ] 117.136.0.167 /weixin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 24 行.
+NOTIC: [8] Trying to get property of non-object /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 26 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
