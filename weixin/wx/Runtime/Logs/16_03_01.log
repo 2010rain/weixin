@@ -1,0 +1,1974 @@
+[ 2016-03-01T15:59:51+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=bb527a1d1e268187681418213df96b81a9bb9a6a&timestamp=1456819191&nonce=938723462&encrypt_type=aes&msg_signature=ede0c51bc7d4a5e151cff2eda3fffb5595139880
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-03-01T16:00:06+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=713ceea9b131ba2862fcb0a2fc91869735d974cd&timestamp=1456819206&nonce=507145691&encrypt_type=aes&msg_signature=7842343a8164761c493f1fc3f4a4cc1a93a39baa
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2016-03-01T16:00:11+08:00 ] 140.207.54.80 /weixin/index.php/Home/Index?signature=00a99a2716089325cfef22c040eb3858a6e1852f&timestamp=1456819211&nonce=2036378494&encrypt_type=aes&msg_signature=76d53d67d29eadfee5c0a5a5ec09e0723f432a09
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2016-03-01T16:01:21+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=0a980ab20abb34ab1ec9752e40179bd22e78680e&timestamp=1456819281&nonce=134357926&encrypt_type=aes&msg_signature=aef6ddf4bb316e9a71df0aa2904831d689bfbb32
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2016-03-01T16:03:52+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=3541f49add673cb053b9afed4c245796068aaecb&timestamp=1456819432&nonce=1403998573&encrypt_type=aes&msg_signature=3e0d7d4e8dcc41540f34951bcc98612eb56fb723
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2016-03-01T16:09:27+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=ec84177f915cca4ad14b4c658fde6eb41e1127e5&timestamp=1456819767&nonce=409988168&encrypt_type=aes&msg_signature=c8458919f1860254c3337ab03fa4774b68f13b0e
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+
+[ 2016-03-01T16:09:36+08:00 ] 140.207.54.78 /weixin/index.php/Home/Index?signature=c4a6be43dfd15497002a440d65d69e10602ec19c&timestamp=1456819776&nonce=1432315528&encrypt_type=aes&msg_signature=a96c04f696168a0fbd7e35c2d4a7ff153558020c
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+
+[ 2016-03-01T16:09:51+08:00 ] 140.207.54.80 /weixin/index.php/Home/Index?signature=d92026bb1bc8b8562663df441b821563cf6a69f2&timestamp=1456819791&nonce=1500947108&encrypt_type=aes&msg_signature=713be833d0148ebadcfa2dbe1535335526f1d19c
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+
+[ 2016-03-01T16:09:56+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=8d5c59d69fbcf6795a256894019657d4d864ceec&timestamp=1456819796&nonce=153383016&encrypt_type=aes&msg_signature=5d2b6fe753edd0b3e987f9abedb5120817d942f6
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+
+[ 2016-03-01T16:14:20+08:00 ] 140.207.54.79 /weixin/index.php/Home/Index?signature=8154565ec6d2b9b1c4c95cf5c9c2299d32f99020&echostr=5194542171916075005&timestamp=1456820060&nonce=764861458
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+
+[ 2016-03-01T16:14:24+08:00 ] 58.247.206.155 /weixin/index.php/Home/Index?signature=409bcb29c421ea60f366ac01859b474e308550c3&echostr=616577883038023530&timestamp=1456820064&nonce=105591421
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+
+[ 2016-03-01T16:14:28+08:00 ] 101.226.103.73 /weixin/index.php/Home/Index?signature=81045acfe3ff83378d18cababd4b112418debad7&echostr=2469301580398559102&timestamp=1456820068&nonce=1768813290
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+
+[ 2016-03-01T16:14:32+08:00 ] 101.226.103.73 /weixin/index.php/Home/Index?signature=d510f68da77190e25d5ac4441aed06f814950a56&echostr=8554041221202669439&timestamp=1456820071&nonce=1499089103
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+
+[ 2016-03-01T16:14:34+08:00 ] 101.226.103.73 /weixin/index.php/Home/Index?signature=458c55a95f1d93919b88310e746853d416a2b15a&echostr=1593523432509103983&timestamp=1456820074&nonce=548725589
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+
+[ 2016-03-01T16:14:38+08:00 ] 58.247.206.148 /weixin/index.php/Home/Index?signature=897cff70aeb1ccee2b62e1abbeaec3c08b03e670&echostr=1845481112780373997&timestamp=1456820077&nonce=1947100313
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000136s ]
+
+[ 2016-03-01T16:14:41+08:00 ] 101.226.103.70 /weixin/index.php/Home/Index?signature=5d14c2511ca48106a504ba5b616364228d392a00&echostr=4304153618876325887&timestamp=1456820081&nonce=2079152913
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+
+[ 2016-03-01T16:14:44+08:00 ] 140.207.54.74 /weixin/index.php/Home/Index?signature=8197834aea3e1ccf7b3457e5723ecac1b1ae8d7a&echostr=6167079967828430716&timestamp=1456820084&nonce=1806692497
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+
+[ 2016-03-01T16:14:46+08:00 ] 101.226.103.73 /weixin/index.php/Home/Index?signature=76f5cdd45d952bc5a2b196d17b84f309619ea4b1&echostr=5292675337563758582&timestamp=1456820086&nonce=1322839744
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+
+[ 2016-03-01T16:14:50+08:00 ] 101.226.103.70 /weixin/index.php/Home/Index?signature=43810b4021d2c2a2d2bb547db1e9a8627d97f92c&echostr=4297221584210321406&timestamp=1456820090&nonce=280994773
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+
+[ 2016-03-01T16:14:53+08:00 ] 58.247.206.140 /weixin/index.php/Home/Index?signature=fc149aec8e1afae2da6fec1b936f9606644be0c0&echostr=2541361215232270205&timestamp=1456820093&nonce=967688622
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000145s ]
+
+[ 2016-03-01T16:16:16+08:00 ] 58.247.206.158 /weixin/index.php/Home/Index?signature=194626c79a168ab57affc8b6de42dda489d7db06&echostr=1350394236930322389&timestamp=1456820176&nonce=924090711
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+
+[ 2016-03-01T16:16:20+08:00 ] 101.226.103.70 /weixin/index.php/Home/Index?signature=ff919167b77a513715be9b1a838146da2f4f9a4e&echostr=5620420782931312629&timestamp=1456820180&nonce=1984531185
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+
+[ 2016-03-01T16:16:23+08:00 ] 58.247.206.155 /weixin/index.php/Home/Index?signature=390af7a46e43b737a467677ac113a9a3cc32b4de&echostr=2031874520236642263&timestamp=1456820183&nonce=327220901
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+
+[ 2016-03-01T16:16:26+08:00 ] 101.226.103.63 /weixin/index.php/Home/Index?signature=6b59bb75283d8fc41ea9370076e9bd85827ecbe0&echostr=1677240822969257979&timestamp=1456820186&nonce=167383133
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+
+[ 2016-03-01T16:16:29+08:00 ] 58.247.206.155 /weixin/index.php/Home/Index?signature=592e5301ad747bbf89ee084ea196179232658f14&echostr=2008041343537766399&timestamp=1456820189&nonce=1358134000
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+
+[ 2016-03-01T16:16:32+08:00 ] 58.247.206.155 /weixin/index.php/Home/Index?signature=e52a3d42170ea9576ca89150945675f04a4c1a98&echostr=3174749993814683625&timestamp=1456820192&nonce=410040944
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+
+[ 2016-03-01T16:16:35+08:00 ] 58.247.206.153 /weixin/index.php/Home/Index?signature=f7d779ee5e993d8e9655c566ab52e3b91d3d0800&echostr=2199919221698023395&timestamp=1456820195&nonce=523152789
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+
+[ 2016-03-01T16:16:38+08:00 ] 101.226.103.63 /weixin/index.php/Home/Index?signature=c86c6849d49db6c464d57d402b4d395c3f86b13e&echostr=2386098876940546031&timestamp=1456820198&nonce=872279421
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+
+[ 2016-03-01T16:16:41+08:00 ] 58.247.206.150 /weixin/index.php/Home/Index?signature=b2fc2c38d2415ca25858ddb74aa85601d31b8708&echostr=3941634945333460991&timestamp=1456820201&nonce=1776508028
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+
+[ 2016-03-01T16:16:43+08:00 ] 58.247.206.158 /weixin/index.php/Home/Index?signature=b3144b19b40e51621ace692eb45638d5ebfd45c5&echostr=212164183353815035&timestamp=1456820203&nonce=2055824922
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+
+[ 2016-03-01T16:16:46+08:00 ] 58.247.206.143 /weixin/index.php/Home/Index?signature=f064d4e9d35eda5bc6f1544ee9762f7783dc2ee6&echostr=4415117522042843135&timestamp=1456820206&nonce=1631577967
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+
+[ 2016-03-01T16:20:34+08:00 ] 140.207.54.80 /weixin/index.php/Home/Index?signature=862d58a752b807a994a91459a7e8ec867f3fe5f5&echostr=5314586963088857815&timestamp=1456820434&nonce=1662403270
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+
+[ 2016-03-01T16:22:54+08:00 ] 61.149.177.6 /weixin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000101s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 10 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 24 行.
+NOTIC: [8] Trying to get property of non-object /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [8] Trying to get property of non-object /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000103s ]
+
+[ 2016-03-01T16:42:17+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=751b7cfc4ca5f83433cefaab35122451bf35e6fd&timestamp=1456821737&nonce=985276846&encrypt_type=aes&msg_signature=69d33f3a2690dd62a7c935e6e21a4f854d48261e
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-03-01T16:42:30+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=7b3a3cc75f4d0e0012b80556554a4813092adaf1&timestamp=1456821750&nonce=871324574&encrypt_type=aes&msg_signature=1d05c76e25e1bfe54bd4b9dc1d1b31c53e6df071
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000091s ]
+
+[ 2016-03-01T16:42:36+08:00 ] 140.207.54.76 /weixin/index.php/Home/Index?signature=59223de281c911f6f834b135613a64f99371ebf5&timestamp=1456821756&nonce=249596446&encrypt_type=aes&msg_signature=c93f5f25703ae02971e9dad0a52d4d27d684beee
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-03-01T16:45:34+08:00 ] 61.149.177.6 /weixin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2016-03-01T16:45:39+08:00 ] 61.149.177.6 /weixin/
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000102s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000028s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 28 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2016-03-01T16:49:27+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=fafeb0b090c6dee076736b6a2ffc0bc710cd53ea&timestamp=1456822167&nonce=1058543444&encrypt_type=aes&msg_signature=0b66e746ed605bcadd67066dfce6c39b8340f857
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+ERR: 无法加载控制器:Index
+
+[ 2016-03-01T16:49:47+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=44865944f685fd7d84f255458e7d0c9391c6f447&timestamp=1456822187&nonce=2091025482&encrypt_type=aes&msg_signature=109af8d53e3a0c9d099ee6b86e50f1bb24146bc9
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000112s ]
+
+[ 2016-03-01T16:51:47+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=eb1e5b28fa2abbf16efe4ca05ef0b1c1da01cf5e&timestamp=1456822307&nonce=1343931572&encrypt_type=aes&msg_signature=e1fa4004858f5d1a36cc7d7552202ff19e2f57ca
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2016-03-01T16:52:00+08:00 ] 140.207.54.78 /weixin/index.php/Home/Index?signature=21159de217670582ca390266b903257086062f3a&timestamp=1456822320&nonce=1888978872&encrypt_type=aes&msg_signature=de00b2a6e9b1cca3638efae9d63e667b62210100
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-03-01T16:53:38+08:00 ] 140.207.54.80 /weixin/index.php/Home/Index?signature=fb47cdc0df08e08050d86b3c887a20b1929d8844&timestamp=1456822418&nonce=934137226&encrypt_type=aes&msg_signature=ae5de3adab4e415dd1bca24814012e709ff1b140
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-03-01T16:53:46+08:00 ] 140.207.54.79 /weixin/index.php/Home/Index?signature=c8d8e7f54739d6c6ec11cb19770f3c666da8ce71&timestamp=1456822426&nonce=792274212&encrypt_type=aes&msg_signature=9b44a6379d9917eb86f0e9ee50eece28a1840fa8
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000165s ]
+
+[ 2016-03-01T17:02:09+08:00 ] 140.207.54.79 /weixin/index.php/Home/Index?signature=2bd185ea0eefe3ffaf7d8aee54849f35e07a0843&timestamp=1456822929&nonce=1671285998&encrypt_type=aes&msg_signature=0b4c961ac53d2650f8171775946b79465408331d
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2016-03-01T17:02:12+08:00 ] 140.207.54.76 /weixin/index.php/Home/Index?signature=87f0bfcbbe91b331d19bddbd6000463d5a5bb1da&timestamp=1456822932&nonce=1156539010&encrypt_type=aes&msg_signature=11ab65e54b820cee4c91531d30df22a3402021b3
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000105s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-03-01T17:02:17+08:00 ] 140.207.54.78 /weixin/index.php/Home/Index?signature=9b9b34b3b5c0a6193292cb65690d63a0fe29c38f&timestamp=1456822937&nonce=24223605&encrypt_type=aes&msg_signature=b08c9c9425ef96150ef91423399732ee7e499fc0
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-03-01T17:02:20+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=8e3b5deb5974701f8abc123dcbfa26023a4defff&timestamp=1456822940&nonce=1049053610&encrypt_type=aes&msg_signature=53ac03c64e6c95259a32d1ff7f371423329c9f69
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2016-03-01T17:03:43+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=215e8f6fdf1fbce187ef887b6a3f1e346a028ac2&timestamp=1456823023&nonce=1388097263&encrypt_type=aes&msg_signature=432d4b1fd53a1fe62abb6d3c586933014611525c
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000028s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2016-03-01T17:04:50+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=262a34aca54a50e19afad7c53808683bb8305845&timestamp=1456823090&nonce=635965989&encrypt_type=aes&msg_signature=040743b1ed758638333cc3cd315f7d1e67b96147
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2016-03-01T17:05:13+08:00 ] 140.207.54.79 /weixin/index.php/Home/Index?signature=fa53678e0f1217533a452ff003d5b4d36332cabf&timestamp=1456823113&nonce=620963566&encrypt_type=aes&msg_signature=10ce12c7007859d042ee0da6f4f913f373075133
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-03-01T17:05:51+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=7caf88b2d819a41b2da9236f7db7966e271ccc56&timestamp=1456823151&nonce=1831632127&encrypt_type=aes&msg_signature=60adf2bc435dad896c2751fcd6c3d80529833ab7
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2016-03-01T17:06:11+08:00 ] 140.207.54.78 /weixin/index.php/Home/Index?signature=f495446e2683e2eb5b70129beeccca57de8df9b9&timestamp=1456823171&nonce=1657116145&encrypt_type=aes&msg_signature=bed9b7b14333651d5fdc49f777342656ec059a68
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-03-01T17:06:30+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=e9be6f61a2a5c2f150bb48806d254b54d18b521f&timestamp=1456823190&nonce=1427735976&encrypt_type=aes&msg_signature=2764a259f35396bce0145c381475abfc8f86a479
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2016-03-01T17:06:37+08:00 ] 140.207.54.80 /weixin/index.php/Home/Index?signature=0ebe0f5d41008eeb0e61800ee598bfbbc26f6d8a&timestamp=1456823197&nonce=406499883&encrypt_type=aes&msg_signature=738e63ac06c808c30711f64d3a797d0b9a6ca92a
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-03-01T17:06:55+08:00 ] 140.207.54.76 /weixin/index.php/Home/Index?signature=82e1e829391175baf57e780e889a313b7c736a71&timestamp=1456823215&nonce=1610280252&encrypt_type=aes&msg_signature=988565243ce97119388f6c6bd8c616c732ba3315
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000112s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000092s ]
+
+[ 2016-03-01T17:07:12+08:00 ] 140.207.54.78 /weixin/index.php/Home/Index?signature=f7602527379f40ef97971e2db05465bc8cc4ef80&timestamp=1456823232&nonce=1092568675&encrypt_type=aes&msg_signature=4297cd37aab4769efb95ec02661daea1a5a9f131
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-03-01T17:07:19+08:00 ] 140.207.54.76 /weixin/index.php/Home/Index?signature=501a6449163053e014a1d7356efcb5d9c12f2584&timestamp=1456823238&nonce=909913710&encrypt_type=aes&msg_signature=9556b6b3390bb8f85c502c9a1e6fe86307c6460c
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-03-01T17:12:15+08:00 ] 140.207.54.76 /weixin/index.php/Home/Index?signature=d38a6c68b19cdac57acfd557f31ed4aae9887b1c&timestamp=1456823535&nonce=1103545683&encrypt_type=aes&msg_signature=0f05fb8962635445cbda6316c9e300b8427cee0e
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+
+[ 2016-03-01T17:12:50+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=1b9fc147094879f9b855f6a5858966940e76f48b&timestamp=1456823570&nonce=767616412&encrypt_type=aes&msg_signature=0dcdb7bfd0435957f21cbacd33bf7f883b565bfd
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+
+[ 2016-03-01T17:12:55+08:00 ] 140.207.54.80 /weixin/index.php/Home/Index?signature=11d66c48f217b1b060cc0cde2e14ecc4f9afc77e&timestamp=1456823575&nonce=572934334&encrypt_type=aes&msg_signature=22d00522d53e18908378ae8a1bd96fb2378f3f39
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+
+[ 2016-03-01T17:13:49+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=86f8c238c1a4235ab2558ef6e5acede2ac783cdd&timestamp=1456823629&nonce=1040591316&encrypt_type=aes&msg_signature=d81d0ada6af016de38da174fa685a149b8544a0b
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+
+[ 2016-03-01T17:15:00+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=bfdaa8387524832b84861789aab327001689377c&timestamp=1456823700&nonce=1615118637&encrypt_type=aes&msg_signature=8c1a1415129969d54a4212590313220c875b3c83
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+
+[ 2016-03-01T17:15:31+08:00 ] 140.207.54.80 /weixin/index.php/Home/Index?signature=565bc6a3b609285cb51d15a1a6ef10339110e967&timestamp=1456823731&nonce=649699468&encrypt_type=aes&msg_signature=d224920b953daf3433ae45e93167c56c9d85c676
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+
+[ 2016-03-01T17:15:35+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=d275f30024a5ddd5b743fecc8cbbbbb58d1a3c47&timestamp=1456823735&nonce=318556055&encrypt_type=aes&msg_signature=a09c1eeabe3c8f2b3aa25d008b6ecebbc9498a93
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+
+[ 2016-03-01T17:16:54+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=21cb6542045c6722a9229e3e9167d62db54f12e6&timestamp=1456823814&nonce=515013979&encrypt_type=aes&msg_signature=1b0ba281acc9630766889655853048dcbcd302d2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000101s ]
+
+[ 2016-03-01T17:17:36+08:00 ] 140.207.54.78 /weixin/index.php/Home/Index?signature=7da5f34e3339acb06d588796eae2b7e507df1084&timestamp=1456823856&nonce=1989443454&encrypt_type=aes&msg_signature=3604e6584208c9efd831db5a53432a970279923f
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: content /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 72 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-03-01T17:17:40+08:00 ] 140.207.54.78 /weixin/index.php/Home/Index?signature=cccd6d6a312db3436c5fae865d269b2767334ed0&timestamp=1456823860&nonce=1791476962&encrypt_type=aes&msg_signature=d50d0ee9966035300e16f74dd9a96ffe780f3acd
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-03-01T17:18:04+08:00 ] 140.207.54.79 /weixin/index.php/Home/Index?signature=93e10e166dcfc42f5cac5a1ad57f801d6d941446&timestamp=1456823884&nonce=403779311&encrypt_type=aes&msg_signature=815b141ff7d90ccb6b72fefdc8fc2bb66e43a8cc
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-03-01T17:18:46+08:00 ] 140.207.54.80 /weixin/index.php/Home/Index?signature=770fd1a5276fa8d5397e35dd9dbc7f65b82f231b&timestamp=1456823926&nonce=1459664452&encrypt_type=aes&msg_signature=8bcb824bcb7c913d808f688a09527a5351a88b2c
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: content /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 73 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2016-03-01T17:18:52+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=a6535f0e82183f8c6f956fee839bd5ce7c53a7c1&timestamp=1456823932&nonce=1211874407&encrypt_type=aes&msg_signature=f80a65ffb4136988d5f005cbc805134993676c20
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-03-01T17:19:17+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=e3485af8406b62c8ed4dbb770ac269eedd60fdb7&timestamp=1456823957&nonce=15085426&encrypt_type=aes&msg_signature=6a665a9f9b7e9d5e1af8e783ddadbce3030fbec0
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] Undefined variable: content /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 73 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000102s ]
+
+[ 2016-03-01T17:19:24+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=f1c1a60414730d6015d3d53dc7a9b4d196493824&timestamp=1456823964&nonce=1087344160&encrypt_type=aes&msg_signature=321e4ae08a37494bc054c153b897df15ccad1cad
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2016-03-01T17:19:31+08:00 ] 140.207.54.78 /weixin/index.php/Home/Index?signature=51e0a30132953474245fc79690fcc5910a782e8d&timestamp=1456823971&nonce=1986088444&encrypt_type=aes&msg_signature=b1ab9c0aa1ea7d11aafae87084d317037e4f4120
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000123s ]
+
+[ 2016-03-01T17:19:35+08:00 ] 140.207.54.80 /weixin/index.php/Home/Index?signature=772adb7a4037c3bdfa0ae1ce6f664f7dc43f0fe2&timestamp=1456823975&nonce=1941264256&encrypt_type=aes&msg_signature=7dd5fade11c7fc60607f8afd4e577418ad940de0
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: content /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 73 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-03-01T18:48:57+08:00 ] 61.149.177.6 /weixin/index.php/Home/Index/http_curl
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+
+[ 2016-03-01T19:04:17+08:00 ] 61.149.177.6 /weixin/index.php/Home/Index/http_curl
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000180s ]
+
+[ 2016-03-01T19:08:58+08:00 ] 140.207.54.79 /weixin/index.php/Home/Index?signature=20cc471f330918cd3b1379284e2b86d085766fef&timestamp=1456830538&nonce=824492798&encrypt_type=aes&msg_signature=7c6578f65dcc8781bb09c94c187840f5f1672429
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+
+[ 2016-03-01T19:09:10+08:00 ] 140.207.54.79 /weixin/index.php/Home/Index?signature=49047d50ef9acfb6ae3606ae239fc00b64f8d02d&timestamp=1456830550&nonce=1722957209&encrypt_type=aes&msg_signature=733d399ea3bf0c09cf6521385f42e081b9eadd62
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000038s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+
+[ 2016-03-01T19:09:16+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=2b389b657ba633e3f1e5f59524021bd0bf64f811&timestamp=1456830556&nonce=1667680417&encrypt_type=aes&msg_signature=6382e9547c509cd9bd2361ea2b3adc5e65af4e9a
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000102s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: content /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 106 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000176s ]
+
+[ 2016-03-01T19:11:10+08:00 ] 140.207.54.78 /weixin/index.php/Home/Index?signature=bf1755db349a2365f85e910586e65935c72bbcd5&timestamp=1456830670&nonce=17390014&encrypt_type=aes&msg_signature=e0eb32ac8458bf8bf037aabce5f396165003f688
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+
+[ 2016-03-01T19:11:54+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=5bcbdb9169ad23243b95a6f6abdb7e03835b3dcf&timestamp=1456830714&nonce=429384222&encrypt_type=aes&msg_signature=2453b24fd1066349c4b852777f2e17b76b60b8b6
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+
+[ 2016-03-01T19:12:21+08:00 ] 140.207.54.76 /weixin/index.php/Home/Index?signature=a9d5e5681680a8e5899e7e3d0d59c4b890817f18&timestamp=1456830741&nonce=1355347988&encrypt_type=aes&msg_signature=5af0e79e5dc15ce570be772320651e64c2599208
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+
+[ 2016-03-01T19:12:35+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=6bc3469e891e82376c4db84d14604c5584dcfeb3&timestamp=1456830755&nonce=153709468&encrypt_type=aes&msg_signature=3b03a15e16eb5363b89a4b8e4823fb94f376340f
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000099s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+
+[ 2016-03-01T19:13:25+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=8d6a14d26ac106216acded7897d4bd5df8299fe5&timestamp=1456830805&nonce=1674462893&encrypt_type=aes&msg_signature=36bca446b7d9f437407826c4f0a79ee69e409493
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000191s ]
+
+[ 2016-03-01T19:13:49+08:00 ] 140.207.54.80 /weixin/index.php/Home/Index?signature=f3b44679338652bb5d2b2051d45325da53ac1a11&timestamp=1456830829&nonce=1323014643&encrypt_type=aes&msg_signature=9c9725e06e46a286ae14c87837b95ebacd765284
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000172s ]
+
+[ 2016-03-01T20:38:06+08:00 ] 140.207.54.78 /weixin/index.php/Home/Index?signature=36a847694a5b59c6fd1db23da53d6ba74e678208&timestamp=1456835886&nonce=1235473922&encrypt_type=aes&msg_signature=ce7ad168b404ae46c6c6a841fea8ed19aa5be227
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: content /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 111 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2016-03-01T20:38:12+08:00 ] 140.207.54.80 /weixin/index.php/Home/Index?signature=11f7e5a2da9043056ee5986fabf90edc6ce44b26&timestamp=1456835892&nonce=105283936&encrypt_type=aes&msg_signature=c16c7961d0a1b758308a68790bb77536b3139c39
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000036s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: content /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 111 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-03-01T20:38:22+08:00 ] 140.207.54.78 /weixin/index.php/Home/Index?signature=545ea10c10312ef21298d1b4fc4645d37e040153&timestamp=1456835901&nonce=120999851&encrypt_type=aes&msg_signature=e1914f737d69e82791fbe37ffa01ae196a2595cd
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2016-03-01T20:39:15+08:00 ] 140.207.54.76 /weixin/index.php/Home/Index?signature=2fc21919609af45b801f88fe7582aa4fef3f89a9&timestamp=1456835955&nonce=1158041835&encrypt_type=aes&msg_signature=5d6466c752f508151fbdc7e9c4648c61895e84ed
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000091s ]
+
+[ 2016-03-01T22:02:10+08:00 ] 140.207.54.74 /weixin/index.php/Home/Index?signature=5e0211a4870984cabde4da09d4b136c727ea7a2f&timestamp=1456840930&nonce=908329278&encrypt_type=aes&msg_signature=423206f77ffacf6af470a60216d93a47004ce113
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-03-01T22:02:22+08:00 ] 140.207.54.73 /weixin/index.php/Home/Index?signature=29dc805b01eff273595ed8215ba82bd4abc9cea8&timestamp=1456840942&nonce=943188140&encrypt_type=aes&msg_signature=69b579a7d9cdac5e4e2487ccaaa1447524ff3d79
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined variable: content /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 111 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-03-01T22:02:35+08:00 ] 140.207.54.75 /weixin/index.php/Home/Index?signature=e98d1757d26acbe1f78d9a97b1defa06bfd9d7b2&timestamp=1456840955&nonce=1438150847&encrypt_type=aes&msg_signature=d14bf76a5bf07b5068432be92b1bab6ce425ff71
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2016-03-01T22:27:17+08:00 ] 140.207.54.77 /weixin/index.php/Home/Index?signature=c0f8378996659c4ff1312f7bd4b076cb67be5002&timestamp=1456842437&nonce=1207669953&encrypt_type=aes&msg_signature=0ad265dc8409878870d2e2eca0523d5c23c599f1
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000092s ]
+
+[ 2016-03-01T22:28:38+08:00 ] 140.207.54.73 /weixin/index.php/Home/Index?signature=642fef6b92f5104acd06a97bb5b234cd0979ce26&timestamp=1456842518&nonce=360780747&encrypt_type=aes&msg_signature=f36f445ef13c5e0b20610f0f17f452c43e70f56d
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-03-01T22:47:56+08:00 ] 61.149.177.6 /weixin/index.php
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+NOTIC: [8] Undefined index: timestamp /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 8 行.
+NOTIC: [8] Undefined index: nonce /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 9 行.
+NOTIC: [8] Undefined index: signature /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 40 行.
+NOTIC: [8] Trying to get property of non-object /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 58 行.
+NOTIC: [8] Trying to get property of non-object /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 84 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-03-01T22:48:01+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2016-03-01T22:48:47+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000081s ]
+
+[ 2016-03-01T22:49:03+08:00 ] 140.207.54.73 /weixin/index.php/Home/Index?signature=a5d1f259f3acfc477dd9b56d37dc094aba5c64fa&timestamp=1456843743&nonce=1166396356&encrypt_type=aes&msg_signature=51a6e2c942e6cb1c947356790ab0f869774d9868
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: content /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 111 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000090s ]
+
+[ 2016-03-01T22:49:09+08:00 ] 140.207.54.75 /weixin/index.php/Home/Index?signature=e1095cb39065708abf1dbe4b0088d10a0e73a399&timestamp=1456843749&nonce=1506182938&encrypt_type=aes&msg_signature=517f852ed5a68bf979ba1bee4dee63a42711a1bb
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: content /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 111 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000083s ]
+
+[ 2016-03-01T22:50:50+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000178s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000038s ]
+ERR: 非法操作:index
+
+[ 2016-03-01T22:50:51+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000035s ]
+ERR: 非法操作:index
+
+[ 2016-03-01T22:52:33+08:00 ] 140.207.54.73 /weixin/index.php/Home/Index?signature=4f5376e93bb239dc1065b9b019d910b4d3e2e812&timestamp=1456843953&nonce=1167775496&encrypt_type=aes&msg_signature=63a28cf068be3bfbf9fc0a6d4872e50ed81993ea
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: content /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 111 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-03-01T22:53:43+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.026252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026323s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000063s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000081s ]
+
+[ 2016-03-01T22:59:02+08:00 ] 140.207.54.74 /weixin/index.php/Home/Index?signature=290f76609e53f8e4f26f0725eb6ac641481b11cf&timestamp=1456844342&nonce=112781899&encrypt_type=aes&msg_signature=d3d0ef411b9eacdc3c7a07cb947631b0e58d97c0
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+NOTIC: [8] Undefined index: echostr /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined variable: content /var/www/weixin/wx/Home/Controller/IndexController.class.php 第 111 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000083s ]
+
+[ 2016-03-01T22:59:04+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000037s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000024s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./wx/Runtime/Cache/3fab4da04aa4df62a6252c77dc03b720663b8f3e.file.basketball.html.php /var/www/weixin/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(./wx/Runtime/Cache/3fab4da04aa4df62a6252c77dc03b720663b8f3e.file.basketball.html.php): No such file or directory /var/www/weixin/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_write_file.php 第 49 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.115683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.115761s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000069s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-03-01T23:03:39+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000023s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.029526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029637s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000070s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2016-03-01T23:33:35+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000105s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.032566s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032655s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2016-03-01T23:47:27+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000023s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.036996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037093s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000022s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000082s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2016-03-01T23:47:28+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000038s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000022s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008180s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000064s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000080s ]
+
+[ 2016-03-01T23:47:30+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000023s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007595s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007666s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000062s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000080s ]
+
+[ 2016-03-01T23:47:31+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000023s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007693s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007787s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000137s ]
+
+[ 2016-03-01T23:49:47+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000030s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000025s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.036038s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036128s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-03-01T23:50:37+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000023s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008247s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008320s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000066s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2016-03-01T23:50:38+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000023s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007967s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008041s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000064s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000081s ]
+
+[ 2016-03-01T23:50:39+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000037s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008214s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000068s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-03-01T23:50:39+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000022s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008086s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000069s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-03-01T23:50:40+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000099s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000034s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000023s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007877s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000065s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000083s ]
+
+[ 2016-03-01T23:50:40+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000022s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008257s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000064s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000112s ]
+
+[ 2016-03-01T23:51:21+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000022s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.036041s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036134s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000083s ]
+
+[ 2016-03-01T23:51:43+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000099s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000076s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000025s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.036494s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036605s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000068s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-03-01T23:52:08+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000026s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.035052s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000068s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-03-01T23:52:31+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000024s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.031703s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031791s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-03-01T23:52:48+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000023s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.035664s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-03-01T23:53:40+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000105s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000033s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000024s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.035889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035985s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000068s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000087s ]
+
+[ 2016-03-01T23:54:39+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000023s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.035519s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035609s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000066s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000093s ]
+
+[ 2016-03-01T23:55:14+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000023s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.036192s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036285s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000068s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000085s ]
+
+[ 2016-03-01T23:56:25+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000029s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000023s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.034951s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035041s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000068s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2016-03-01T23:57:32+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000029s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000022s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.038348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000102s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000115s ]
+
+[ 2016-03-01T23:58:10+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000023s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.039592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2016-03-01T23:59:51+08:00 ] 61.149.177.6 /weixin/index.php/Home/Report/basketball
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ action_begin ] --START--
+INFO: [ action_begin ] --END-- [ RunTime:0.000032s ]
+INFO: [ view_begin ] --START--
+INFO: [ view_begin ] --END-- [ RunTime:0.000022s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplate [ RunTime:0.039666s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ view_end ] --START--
+INFO: [ view_end ] --END-- [ RunTime:0.000023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
